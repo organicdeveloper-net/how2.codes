@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>7webgallery@gmail.com &#8211; how-2.codes</title>
+	<atom:link href="https://how-2.codes/author/7webgallerygmail-com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://how-2.codes</link>
+	<description></description>
+	<lastBuildDate>Sat, 09 May 2026 10:13:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.1</generator>
+
+<image>
+	<url>https://how-2.codes/wp-content/uploads/2026/04/pGL3279G8ozXkR2aNI-1-150x150.gif</url>
+	<title>7webgallery@gmail.com &#8211; how-2.codes</title>
+	<link>https://how-2.codes</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Resetting a Windows 10-11 pin when you forgot it …easily</title>
+		<link>https://how-2.codes/resetting-a-windows-10-11-pin-when-you-forgot-it-easily/</link>
+					<comments>https://how-2.codes/resetting-a-windows-10-11-pin-when-you-forgot-it-easily/#respond</comments>
+		
+		<dc:creator><![CDATA[7webgallery@gmail.com]]></dc:creator>
+		<pubDate>Sat, 09 May 2026 10:13:08 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://how-2.codes/?p=183</guid>
+
+					<description><![CDATA[Resetting a Windows 10 22H2 password/PIN via bootable USB involves booting from a Windows Installation Media USB, using Command Prompt to replace Utility Manager (utilman.exe) with Command Prompt (cmd.exe), and running net user to change the password. This method works for local accounts. Step-by-Step Instructions Phase 1: Boot from USB and Access Command Prompt   [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Resetting a Windows 10 22H2 password/PIN via bootable USB involves booting from a Windows Installation Media USB, using Command Prompt to replace Utility Manager (utilman.exe) with Command Prompt (cmd.exe), and running net user to change the password. This method works for local accounts.
+</p>
+<p>Step-by-Step Instructions
+</p>
+<p>Phase 1: Boot from USB and Access Command Prompt
+</p>
+<p>
+ </p>
+<p>    Insert your bootable Windows 10/11 USB into the locked computer.
+</p>
+<p>    Restart the computer and press the boot menu key (e.g., F12, F2, Del) to boot from the USB.
+</p>
+<p>    On the Windows Setup screen, press Shift + F10 to open the Command Prompt.
+</p>
+<p>    Identify your Windows installation drive letter (usually C: or D:). Type dir c: to check.
+</p>
+<p>
+ </p>
+<p>Phase 2: Replace Utility Manager (Accessibility Tool)
+</p>
+<p>
+ </p>
+<p>    In Command Prompt, run the following commands, pressing Enter after each:
+</p>
+<p>        move c:\windows\system32\utilman.exe c:\windows\system32\utilman.exe.bak
+</p>
+<p>        copy c:\windows\system32\cmd.exe c:\windows\system32\utilman.exe
+</p>
+<p>    Close Command Prompt, remove the USB, and restart the computer normally.
+</p>
+<p>
+ </p>
+<p>Phase 3: Reset Password/PIN
+</p>
+<p>
+ </p>
+<p>    At the Windows login screen, click the Utility Manager icon (bottom right, looks like a clock/gauge) to open Command Prompt.
+</p>
+<p>    Type the following command and press Enter: net user your_username new_password (replace your_username with your account name and new_password with a new one).
+</p>
+<p>    Close the Command Prompt and log in with your new password.
+</p>
+<p>Phase 4: Revert Changes (Crucial for Security)
+</p>
+<p>
+ </p>
+<p>    Re-insert the USB, boot from it, and open Command Prompt (Shift+F10).
+</p>
+<p>    Run this command to restore the Utility Manager:
+</p>
+<p>        del c:\windows\system32\utilman.exe
+</p>
+<p>        ren c:\windows\system32\utilman.exe.bak utilman.exe
+</p>
+<p>    Restart again.
+</p>
+<p>
+ </p>
+<p>Alternatively, you can use Hiren&#8217;s BootCD on a USB for a graphical password reset tool.
+</p>
+<p>
+ </p>
+<p>To create a Hiren&#8217;s BootCD PE bootable USB for GUI password resetting, download the Hiren&#8217;s ISO and Rufus, then use Rufus to flash the ISO onto a 4GB+ USB drive (formatted to FAT32). Boot the target PC from this USB, open NT Password Edit via the Security/Password folder, and reset the account password.
+</p>
+<p>Step-by-Step Instructions:
+</p>
+<p>1. Create the Bootable USB
+</p>
+<p>
+ </p>
+<p>    Download Resources: Download the latest ISO from the official Hiren&#8217;s BootCD PE site (usually HBCD_PE_x64.iso) and download Rufus.
+</p>
+<p>    Connect USB: Insert a USB flash drive (at least 4GB or 8GB recommended).
+</p>
+<p>    Run Rufus: Open Rufus, select your USB drive under &#8220;Device,&#8221; and click &#8220;Select&#8221; to choose the downloaded Hiren&#8217;s ISO file.
+</p>
+<p>    Partition Scheme: Select MBR (or GPT if targeting only modern UEFI machines).
+</p>
+<p>    Start: Click &#8220;Start&#8221; to flash the image. Note that all data on the USB will be erased.
+</p>
+<p>
+ </p>
+<p>2. Boot from the USB
+</p>
+<p>
+ </p>
+<p>    Access BIOS/UEFI: Insert the USB into the locked computer. Restart it and press the required key to enter the boot menu (e.g., F12, F2, Delete, or Esc).
+</p>
+<p>    Select USB: Choose the USB drive from the boot menu.
+</p>
+<p>    Load Hiren&#8217;s: Allow Windows PE to load, resulting in a desktop screen.
+</p>
+<p>
+ </p>
+<p>3. Use the GUI Password Reset Tool
+</p>
+<p>
+ </p>
+<p>    Open Tool: Navigate to Start Menu &gt; All Programs &gt; Security &gt; Passwords.
+</p>
+<p>    Launch Utility: Open NT Password Edit.
+</p>
+<p>    Select SAM: Click &#8220;Open&#8221; to load the SAM file (it usually automatically finds the path: C:\Windows\System32\config\SAM).
+</p>
+<p>    Reset Password: Select the username, click &#8220;Change Password,&#8221; and click &#8220;OK&#8221; to remove the password (or enter a new one).
+</p>
+<p>    Save and Exit: Click &#8220;Save Changes&#8221; and restart your computer.
+</p>
+<p>Important Notes:
+</p>
+<p>
+ </p>
+<p>    Ensure the tool shows &#8220;EDIT COMPLETE&#8221; before closing to confirm success.
+</p>
+<p>    If your system uses a Microsoft account instead of a local account, this tool may only enable you to create a new local admin acct</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://how-2.codes/resetting-a-windows-10-11-pin-when-you-forgot-it-easily/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

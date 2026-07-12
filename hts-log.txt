@@ -1,0 +1,189 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 11 Jul 2026 19:55:10 at https://how-2.codes +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Pns2u1%s%uN0%I0p7DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://how-2.codes -O1 "C:\Users\TechnotesSRVR\Documents\GitHubSITES\how-2.codes\how2.codes\how2.codes" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:55:28	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from https://how-2.codes/)
+19:55:46	Warning: 	Warning: store text/html without scan: C:/Users/TechnotesSRVR/Documents/GitHubSITES/how-2.codes/how2.codes/how2.codes/gmpg.org/xfn/.html
+19:55:46	Warning: 	Warning: store text/html without scan: C:/Users/TechnotesSRVR/Documents/GitHubSITES/how-2.codes/how2.codes/how2.codes/gmpg.org/xfn/intro.html
+19:55:46	Warning: 	Warning: store text/html without scan: C:/Users/TechnotesSRVR/Documents/GitHubSITES/how-2.codes/how2.codes/how2.codes/gmpg.org/xfn/faq.html
+19:55:47	Warning: 	Moved Permanently for https://how-2.codes/?p=21
+19:55:47	Warning: 	File has moved from https://how-2.codes/?p=21 to https://how-2.codes/about/
+19:55:47	Warning: 	Moved Permanently for https://how-2.codes/?p=3
+19:55:47	Warning: 	File has moved from https://how-2.codes/?p=3 to https://how-2.codes/privacy-policy/
+19:55:47	Error: 	"Method Not Allowed" (405) at link https://how-2.codes/xmlrpc.php (from https://how-2.codes/privacy-policy/)
+19:55:47	Warning: 	Moved Permanently for https://how-2.codes/?p=183
+19:55:47	Warning: 	File has moved from https://how-2.codes/?p=183 to https://how-2.codes/resetting-a-windows-10-11-pin-when-you-forgot-it-easily/
+19:55:47	Warning: 	Moved Permanently for https://how-2.codes/?p=181
+19:55:47	Warning: 	File has moved from https://how-2.codes/?p=181 to https://how-2.codes/how-to-disable-onedrive-completely/
+19:55:47	Warning: 	Moved Permanently for https://how-2.codes/?p=147
+19:55:47	Warning: 	File has moved from https://how-2.codes/?p=147 to https://how-2.codes/new-split-tabs-in-firefox-how-easy-it-is/
+19:55:47	Warning: 	Moved Permanently for https://how-2.codes/?p=144
+19:55:47	Warning: 	File has moved from https://how-2.codes/?p=144 to https://how-2.codes/explain-turboquant-to-me/
+19:55:47	Warning: 	Moved Permanently for https://how-2.codes/?p=141
+19:55:47	Warning: 	File has moved from https://how-2.codes/?p=141 to https://how-2.codes/how-to-see-your-current-publishing-settings-4-blog-in-microsoft-word/
+19:55:48	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-json/wp/v2/categories/1 (from https://how-2.codes/category/uncategorized/)
+19:55:48	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-json/wp/v2/users/1 (from https://how-2.codes/author/7webgallerygmail-com/)
+19:55:50	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-json/wp/v2/categories/2 (from https://how-2.codes/category/kod/)
+19:56:07	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-json/wp/v2/posts/130 (from https://how-2.codes/keynotenf-example/)
+19:56:07	Error: 	"Too Many Requests" (429) at link https://how-2.codes/?p=130 (from https://how-2.codes/keynotenf-example/)
+19:56:08	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-json/wp/v2/posts/124 (from https://how-2.codes/are-you-recovering-from-a-pua-attack-in-windows/)
+19:56:08	Error: 	"Too Many Requests" (429) at link https://how-2.codes/?p=124 (from https://how-2.codes/are-you-recovering-from-a-pua-attack-in-windows/)
+19:56:08	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-json/wp/v2/posts/111 (from https://how-2.codes/111-2/)
+19:56:08	Error: 	"Too Many Requests" (429) at link https://how-2.codes/?p=111 (from https://how-2.codes/111-2/)
+19:56:08	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-json/wp/v2/posts/1 (from https://how-2.codes/hello-world/)
+19:56:08	Error: 	"Too Many Requests" (429) at link https://how-2.codes/?p=1 (from https://how-2.codes/hello-world/)
+19:56:08	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-json/wp/v2/posts/127 (from https://how-2.codes/hardening-my-pc-pua-recovery-solved/)
+19:56:09	Error: 	"Too Many Requests" (429) at link https://how-2.codes/?p=127 (from https://how-2.codes/hardening-my-pc-pua-recovery-solved/)
+19:56:09	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-json/wp/v2/posts/115 (from https://how-2.codes/the-working-set-of-file-types-webdesign101/)
+19:56:09	Error: 	"Too Many Requests" (429) at link https://how-2.codes/?p=115 (from https://how-2.codes/the-working-set-of-file-types-webdesign101/)
+19:56:09	Warning: 	HTML file (202239 bytes) retransferred due to lack of cache: https://how-2.codes/wp-json/
+19:56:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): fonts.googleapis.com/css?family=Josefin+Sans%3A300%2C400%2C500%2C600%2C700%7COpen+Sans%3A300%2C400%2C500%2C600%2C700%7CKalam%3A300%2C400%2C500%2C600%2C700%7CRokkitt%3A300%2C400%2C500%2C600%2C700%7CJost%3A300%2C400%2C500%2C600%2C700%7CPoppins%3A300%2C400%2C500%2C600%2C700%7CLato%3A300%2C400%2C500%2C600%2C700%7CNoto+Serif%3A300%2C400%2C500%2C600%2C700%7CRaleway%3A300%2C400%2C500%2C600%2C700%7CRoboto%3A300%2C400%2C500%2C600%2C700%7CRubik%3A300%2C400%2C500%2C600%2C700&display=swap&subset=latin,latin-ext
+19:56:19	Warning: 	HTML file (715 bytes) retransferred due to lack of cache: https://how-2.codes/privacy-policy/feed/
+19:56:20	Warning: 	HTML file (857 bytes) retransferred due to lack of cache: https://how-2.codes/resetting-a-windows-10-11-pin-when-you-forgot-it-easily/feed/
+19:56:20	Warning: 	HTML file (797 bytes) retransferred due to lack of cache: https://how-2.codes/how-to-disable-onedrive-completely/feed/
+19:56:20	Warning: 	HTML file (821 bytes) retransferred due to lack of cache: https://how-2.codes/new-split-tabs-in-firefox-how-easy-it-is/feed/
+19:56:28	Warning: 	HTML file (761 bytes) retransferred due to lack of cache: https://how-2.codes/explain-turboquant-to-me/feed/
+19:56:28	Warning: 	HTML file (893 bytes) retransferred due to lack of cache: https://how-2.codes/how-to-see-your-current-publishing-settings-4-blog-in-microsoft-word/feed/
+19:56:41	Warning: 	HTML file (6637 bytes) retransferred due to lack of cache: https://how-2.codes/category/uncategorized/feed/
+19:56:42	Warning: 	HTML file (6658 bytes) retransferred due to lack of cache: https://how-2.codes/author/7webgallerygmail-com/feed/
+19:56:42	Warning: 	HTML file (17782 bytes) retransferred due to lack of cache: https://how-2.codes/category/kod/feed/
+19:56:43	Warning: 	HTML file (740 bytes) retransferred due to lack of cache: https://how-2.codes/keynotenf-example/feed/
+19:56:44	Warning: 	HTML file (831 bytes) retransferred due to lack of cache: https://how-2.codes/are-you-recovering-from-a-pua-attack-in-windows/feed/
+19:56:44	Warning: 	HTML file (709 bytes) retransferred due to lack of cache: https://how-2.codes/111-2/feed/
+19:56:44	Warning: 	HTML file (732 bytes) retransferred due to lack of cache: https://how-2.codes/hello-world/feed/
+19:56:45	Warning: 	HTML file (797 bytes) retransferred due to lack of cache: https://how-2.codes/hardening-my-pc-pua-recovery-solved/feed/
+19:56:46	Warning: 	HTML file (76644 bytes) retransferred due to lack of cache: https://how-2.codes/make-life-easier/
+19:56:47	Warning: 	HTML file (61775 bytes) retransferred due to lack of cache: https://how-2.codes/2026/05/
+19:56:47	Warning: 	HTML file (59598 bytes) retransferred due to lack of cache: https://how-2.codes/category/kod/
+19:56:48	Warning: 	Warning: store text/css without scan: C:/Users/TechnotesSRVR/Documents/GitHubSITES/how-2.codes/how2.codes/how2.codes/gmpg.org/xfn/default.css
+19:56:48	Warning: 	HTML file (749 bytes) retransferred due to lack of cache: https://how-2.codes/?p=21
+19:56:49	Error: 	"Too Many Requests" (429) at link https://how-2.codes/?p=21 (from https://how-2.codes/about/)
+19:56:49	Warning: 	HTML file (765 bytes) retransferred due to lack of cache: https://how-2.codes/?p=3
+19:56:49	Error: 	"Too Many Requests" (429) at link https://how-2.codes/?p=3 (from https://how-2.codes/privacy-policy/)
+19:56:49	Warning: 	HTML file (851 bytes) retransferred due to lack of cache: https://how-2.codes/?p=183
+19:56:50	Error: 	"Too Many Requests" (429) at link https://how-2.codes/?p=183 (from https://how-2.codes/resetting-a-windows-10-11-pin-when-you-forgot-it-easily/)
+19:56:50	Warning: 	HTML file (809 bytes) retransferred due to lack of cache: https://how-2.codes/?p=181
+19:56:50	Error: 	"Too Many Requests" (429) at link https://how-2.codes/?p=181 (from https://how-2.codes/how-to-disable-onedrive-completely/)
+19:56:50	Warning: 	HTML file (821 bytes) retransferred due to lack of cache: https://how-2.codes/?p=147
+19:56:51	Error: 	"Too Many Requests" (429) at link https://how-2.codes/?p=147 (from https://how-2.codes/new-split-tabs-in-firefox-how-easy-it-is/)
+19:56:51	Warning: 	HTML file (789 bytes) retransferred due to lack of cache: https://how-2.codes/?p=144
+19:56:51	Error: 	"Too Many Requests" (429) at link https://how-2.codes/?p=144 (from https://how-2.codes/explain-turboquant-to-me/)
+19:56:51	Warning: 	HTML file (877 bytes) retransferred due to lack of cache: https://how-2.codes/?p=141
+19:56:51	Error: 	"Too Many Requests" (429) at link https://how-2.codes/?p=141 (from https://how-2.codes/how-to-see-your-current-publishing-settings-4-blog-in-microsoft-word/)
+19:56:51	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/033126_0617_HowtoSeeYou8.png (from https://how-2.codes/how-to-see-your-current-publishing-settings-4-blog-in-microsoft-word/)
+19:56:51	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/033126_0617_HowtoSeeYou9.png (from https://how-2.codes/how-to-see-your-current-publishing-settings-4-blog-in-microsoft-word/)
+19:56:51	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://how-2.codes/wp-json/wp/v2/categories/1
+19:56:52	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-json/wp/v2/categories/1 (from https://how-2.codes/category/uncategorized/)
+19:56:52	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://how-2.codes/wp-json/wp/v2/users/1
+19:56:52	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-json/wp/v2/users/1 (from https://how-2.codes/author/7webgallerygmail-com/)
+19:56:53	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/themes/blogai/style.css?ver=7.0 (from https://how-2.codes/2026/04/)
+19:56:53	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/themes/blogus/css/all.css?ver=7.0 (from https://how-2.codes/2026/04/)
+19:56:53	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/themes/blogus/css/colors/dark.css?ver=7.0 (from https://how-2.codes/2026/04/)
+19:56:53	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/themes/blogus/css/swiper-bundle.css?ver=7.0 (from https://how-2.codes/2026/04/)
+19:56:53	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/themes/blogus/css/jquery.smartmenus.bootstrap.css?ver=7.0 (from https://how-2.codes/2026/04/)
+19:56:53	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/themes/blogus/css/animate.css?ver=7.0 (from https://how-2.codes/2026/04/)
+19:56:53	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/themes/blogus/style.css?ver=7.0 (from https://how-2.codes/2026/04/)
+19:56:53	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/themes/blogai/css/colors/default.css?ver=7.0 (from https://how-2.codes/2026/04/)
+19:56:53	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/themes/blogus/js/navigation.js?ver=7.0 (from https://how-2.codes/2026/04/)
+19:56:53	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/themes/blogus/js/bootstrap.js?ver=7.0 (from https://how-2.codes/2026/04/)
+19:56:53	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/themes/blogus/js/swiper-bundle.js?ver=7.0 (from https://how-2.codes/2026/04/)
+19:56:53	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/themes/blogus/js/main.js?ver=7.0 (from https://how-2.codes/2026/04/)
+19:56:53	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/themes/blogus/js/sticksy.min.js?ver=7.0 (from https://how-2.codes/2026/04/)
+19:56:53	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/themes/blogus/js/jquery.smartmenus.js?ver=7.0 (from https://how-2.codes/2026/04/)
+19:56:53	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/themes/blogus/js/jquery.smartmenus.bootstrap.js?ver=7.0 (from https://how-2.codes/2026/04/)
+19:56:53	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/themes/blogus/js/jquery.cookie.min.js?ver=7.0 (from https://how-2.codes/2026/04/)
+19:56:53	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/themes/blogai/js/custom-time.js?ver=7.0 (from https://how-2.codes/2026/04/)
+19:56:53	Error: 	"" (429) at link https://how-2.codes/wp-json/wp/v2/categories/2 (from https://how-2.codes/category/kod/)
+19:56:53	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://how-2.codes/wp-json/wp/v2/posts/130
+19:56:53	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-json/wp/v2/posts/130 (from https://how-2.codes/keynotenf-example/)
+19:56:53	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/033126_0615_KeyNoteNFEx1.png (from https://how-2.codes/keynotenf-example/)
+19:56:53	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://how-2.codes/wp-json/wp/v2/posts/124
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-json/wp/v2/posts/124 (from https://how-2.codes/are-you-recovering-from-a-pua-attack-in-windows/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/031226_0554_Areyourecov1.png (from https://how-2.codes/are-you-recovering-from-a-pua-attack-in-windows/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/031226_0554_Areyourecov2.png (from https://how-2.codes/are-you-recovering-from-a-pua-attack-in-windows/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/031226_0554_Areyourecov3.png (from https://how-2.codes/are-you-recovering-from-a-pua-attack-in-windows/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/031226_0554_Areyourecov4.png (from https://how-2.codes/are-you-recovering-from-a-pua-attack-in-windows/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/031226_0554_Areyourecov5.png (from https://how-2.codes/are-you-recovering-from-a-pua-attack-in-windows/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/031226_0554_Areyourecov6.png (from https://how-2.codes/are-you-recovering-from-a-pua-attack-in-windows/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/031226_0554_Areyourecov7.png (from https://how-2.codes/are-you-recovering-from-a-pua-attack-in-windows/)
+19:56:54	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://how-2.codes/wp-json/wp/v2/posts/111
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-json/wp/v2/posts/111 (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_1.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_2.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_3.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_4.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_5.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_6.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_7.jpg (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_8.jpg (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_9.jpg (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_10.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_11.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_12.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_13.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_14.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_15.jpg (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_16.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_17.jpg (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_18.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_19.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_20.jpg (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_21.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_22.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_23.jpg (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_24.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_25.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_26.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_27.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_28.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_29.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_30.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_31.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_32.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_33.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_34.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_35.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_36.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_37.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_38.jpg (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_39.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_40.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_41.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_42.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_43.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_44.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_45.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_46.jpg (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_47.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_48.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_49.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_50.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_51.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_52.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_53.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_54.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_55.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_56.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_57.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_58.png (from https://how-2.codes/111-2/)
+19:56:54	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/uploads/2026/03/030626_2351_59.png (from https://how-2.codes/111-2/)
+19:56:54	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://how-2.codes/wp-json/wp/v2/posts/1
+19:56:55	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-json/wp/v2/posts/1 (from https://how-2.codes/hello-world/)
+19:56:55	Error: 	"" (429) at link https://how-2.codes/wp-json/wp/v2/posts/127 (from https://how-2.codes/hardening-my-pc-pua-recovery-solved/)
+19:56:55	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/themes/blogus/webfonts/fa-brands-400.woff2 (from https://how-2.codes/wp-content/themes/blogus/css/all.css?ver=7.0.1)
+19:56:55	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/themes/blogus/webfonts/fa-brands-400.ttf (from https://how-2.codes/wp-content/themes/blogus/css/all.css?ver=7.0.1)
+19:56:55	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/themes/blogus/webfonts/fa-regular-400.woff2 (from https://how-2.codes/wp-content/themes/blogus/css/all.css?ver=7.0.1)
+19:56:55	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/themes/blogus/webfonts/fa-regular-400.ttf (from https://how-2.codes/wp-content/themes/blogus/css/all.css?ver=7.0.1)
+19:56:55	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/themes/blogus/webfonts/fa-solid-900.woff2 (from https://how-2.codes/wp-content/themes/blogus/css/all.css?ver=7.0.1)
+19:56:55	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/themes/blogus/webfonts/fa-solid-900.ttf (from https://how-2.codes/wp-content/themes/blogus/css/all.css?ver=7.0.1)
+19:56:55	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/themes/blogus/webfonts/fa-v4compatibility.woff2 (from https://how-2.codes/wp-content/themes/blogus/css/all.css?ver=7.0.1)
+19:56:55	Error: 	"Too Many Requests" (429) at link https://how-2.codes/wp-content/themes/blogus/webfonts/fa-v4compatibility.ttf (from https://how-2.codes/wp-content/themes/blogus/css/all.css?ver=7.0.1)
+19:56:55	Error: 	"Too Many Requests" (429) at link https://how-2.codes/urlOverride (from https://how-2.codes/wp-content/themes/blogus/js/swiper-bundle.js?ver=7.0.1)
+19:56:55	Error: 	"Too Many Requests" (429) at link https://how-2.codes/swiper.params.url (from https://how-2.codes/wp-content/themes/blogus/js/swiper-bundle.js?ver=7.0.1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 45 seconds : 238 links scanned, 140 files written (19607506 bytes overall) [15043321 bytes received at 143269 bytes/sec], 4047486 bytes transferred using HTTP compression in 98 files, ratio 22%, 3.8 requests per connection
+(128 errors, 50 warnings, 0 messages)
